@@ -1,12 +1,4 @@
-# CSC7224M_Network_metrics_to_QoE
-
-## Video Streaming Startup Delay Analysis
-
-  
-
-Analysis of video streaming startup delays using encrypted network traffic data.
-
-  
+# CSC7224M_Network_metrics_to_QoE  
 
 ## Feature Sets
 -  **Outband (F_outband):** Network QoS metrics used for simulation
